@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+fastapi
+uvicorn
+websockets
+python-multipart
